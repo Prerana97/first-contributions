@@ -374,6 +374,7 @@ Jeremiah Harkins
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
+- Prerana Mahalanobis
 - Banasri Saha
 - will
 - [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
